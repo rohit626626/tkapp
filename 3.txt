@@ -1,0 +1,4 @@
+Taking care of database, handling client queries, procedures and functions 
+Changes, Client interaction, updating records in the database and retrieving
+the database.
+Taking Calls from client, preparing CSR and new requirements. 

@@ -1,0 +1,5 @@
+procedures and functions changes, Student’s
+interaction,  updating records in the database and retrieving
+the database.
+Taking Calls from student, Manage student information, Provide admit
+card number, Handling Student queries.

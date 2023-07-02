@@ -1,0 +1,3 @@
+This is Online Job Portal project which is developed for job purpose in different Organization. It 
+can be provide the list of different type job indifferent-different organization such as Medical, 
+Education, Banking, Force, Railway etc.
